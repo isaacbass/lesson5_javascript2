@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+2/24/17
 
 ### Student Name:  
-(First and Last Name)
+Isaac Bass
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Program a tax calculator using nested if-else if statements.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://isaacbass.github.io/lesson5_javascript2/Lesson5_taxCalculator/index.html
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to clear the results of a JavaScript application.
+2. I learned how to use nested if-else if statements in a Javascript application.
+3. I learned about comparison operators.
